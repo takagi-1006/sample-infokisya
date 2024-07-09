@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>インフィニティループ帰社日</title>
+</head>
+<body>
+    <main>
+        <h1>帰社日出欠確認</h1>
+        <table border="1">
+        <tr>
+                <td>1月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>2月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>3月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>4月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>5月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>6月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>7月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>8月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>9月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>10月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>11月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+            <tr>
+                <td>12月</td>
+                <td><button>出席</button></td>
+                <td><button>リモート参加</button></td>
+                <td><button>欠席</button></td>
+            </tr>
+
+        </table>
+            <input type="submit" value="帰社日スケジュール">
+        </main>
+        </body>
+</html>
